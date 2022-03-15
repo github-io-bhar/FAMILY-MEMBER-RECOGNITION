@@ -1,0 +1,13 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.label-style {
+    background-color: blueviolet;
+    width: 500px;
+    font-size: 20px;
+}
+
+#header {
+    font-size: 40px;
+}
