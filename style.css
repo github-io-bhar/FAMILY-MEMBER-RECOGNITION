@@ -11,3 +11,9 @@ body {
 #header {
     font-size: 40px;
 }
+
+#camera {
+    height: fit-content;
+    width: fit-content;
+    border-style: double;
+}
