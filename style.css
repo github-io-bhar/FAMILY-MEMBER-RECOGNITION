@@ -13,7 +13,5 @@ body {
 }
 
 #camera {
-    height: fit-content;
-    width: fit-content;
-    border-style: double;
+    border: solid gray;
 }
